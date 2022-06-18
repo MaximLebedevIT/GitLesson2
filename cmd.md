@@ -40,3 +40,16 @@ ESC
 ESC
 :wq
 ``` 
+
+## Удалить файл 
+
+### Windows
+```sh
+del file_name
+```
+
+### MacOS / Linux 
+```sh
+rm file_name
+```
+
